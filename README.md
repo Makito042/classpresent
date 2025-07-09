@@ -27,7 +27,7 @@ A modern, responsive FAQ (Frequently Asked Questions) application built with Flu
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Makito042/classpresent.git>
    cd classpresent
    ```
 
